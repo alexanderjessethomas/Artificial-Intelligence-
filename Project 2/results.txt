@@ -1,0 +1,10 @@
+Alex Thomas CS470
+2/27/2017
+Dr. DoerryDepth First Search on following board:N P T V
+P L F H
+G A T I
+L L A R
+All words: []
+Located 0words
+Time ran: 0.009512662887573242seconds 
+Total number of moves to complete: 1863

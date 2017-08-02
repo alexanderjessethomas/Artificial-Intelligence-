@@ -1,0 +1,13 @@
+Alex Thomas
+CS470
+Dr. Doerry
+
+DFS on the following board
+H M
+N T
+2 letter words: HM, 
+3 letter words: NTH, 
+All words: ['NTH', 'HM']
+Located: 2 words
+Time ran: 0.0 seconds
+Total number of moves to complete: 29
